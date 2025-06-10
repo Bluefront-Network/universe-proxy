@@ -46,8 +46,8 @@ layer(base);
 
 @layer base {
   :root {
-    --background: #e166fa;
-    --background-overlay: #c46bc7;
+    --background: #aa41a1;
+    --background-overlay: #a73faa;
     --text-header: #ffffff;
     --text-secondary: #ffffff;
   }
