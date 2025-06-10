@@ -1,10 +1,10 @@
-# Lunar
+# Universe
 
-[![Join our Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/fuPtWjYuf8) [![View on GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Lunar-proxy/Lunar-v1)
+[![Join our Discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/bluefront) [![View on GitHub](https://skillicons.dev/icons?i=github)](https://github.com/bluefront-network/universe-proxy)
 
-## What is Lunar?
+## What is Universe?
 
-Lunar is a web proxy designed to bypass censorship and provide an exceptional user experience.
+Universe is a web proxy designed to bypass censorship and provide an exceptional user experience.
 
 ## Features
 
@@ -16,16 +16,16 @@ Lunar is a web proxy designed to bypass censorship and provide an exceptional us
 ## Deployment Options
 
 <div>
-    <a href="https://render.com/deploy?repo=https://github.com/lunar-proxy/lunar-v1">
+    <a href="https://render.com/deploy?repo=https://github.com/bluefront-network/universe-proxy">
         <img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/main/buttons/remade/render.svg" alt="Deploy to Render">
     </a>
-    <a href="https://app.koyeb.com/services/deploy?type=git&repository=github.com/lunar-proxy/lunar-v1&builder=dockerfile&instance_type=free&regions=was&ports=8080%3Bhttp%3B%2F&hc_protocol%5B808">
+    <a href="https://app.koyeb.com/services/deploy?type=git&repository=github.com/bluefront-network/universe-proxy&builder=dockerfile&instance_type=free&regions=was&ports=8080%3Bhttp%3B%2F&hc_protocol%5B808">
         <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg" alt="Deploy to Koyeb" style="float: left; margin-right: 10px;">
     </a>
 </div>
 
 > [!NOTE]
-> Lunar cannot be deployed to Netlify, Vercel, GitHub Pages, or any static hosting platform.
+> Universe cannot be deployed to Netlify, Vercel, GitHub Pages, or any static hosting platform.
 
 ## Deployment via Terminal
 
@@ -37,7 +37,7 @@ Lunar is a web proxy designed to bypass censorship and provide an exceptional us
 1. Clone the Lunar repository:
 
    ```bash
-   git clone https://github.com/Lunar-Proxy/Lunar-v1.git
+   git clone https://github.com/bluefront-network/universe-proxy.git
    cd Lunar-v1
    ```
 
@@ -56,16 +56,8 @@ pnpm install && pnpm dev
 
 # Contributing
 
-If you are doing a change to Lunar, please read [this guide](CONTRIBUTING.md) before commiting.
+If you are doing a change to Universe, please read [this guide](CONTRIBUTING.md) before commiting.
 
 # Support
 
-For help, make a [GitHub Issue](https://github.com/Lunar-Proxy/lunar-v1/issues) or ask in [our Discord](https://discord.gg/fuPtWjYuf8).
-
-# Credits
-
-Thanks to everyone below who contribuated to Lunar ❤️
-
-<a href="https://github.com/lunar-proxy/lunar-v1/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=lunar-proxy/lunar-v1"/>
-</a>
+For help, make a [GitHub Issue](https://github.com/bluefront-network/universe-proxy/issues) or ask in [our Discord](https://dsc.gg/bluefront).
