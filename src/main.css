@@ -46,10 +46,10 @@ layer(base);
 
 @layer base {
   :root {
-    --background: #24273a;
-    --background-overlay: #1e1e2e;
-    --text-header: #a5adce;
-    --text-secondary: #a5adcb;
+    --background: #e166fa;
+    --background-overlay: #c46bc7;
+    --text-header: #ffffff;
+    --text-secondary: #ffffff;
   }
 
   body {
